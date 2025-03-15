@@ -1,10 +1,7 @@
 # Cortex 🧠
-# Cortex
 
 ![Cortex](https://img.shields.io/badge/status-development-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
-
-## AI-Powered Knowledge Management System
 
 Cortex is a comprehensive knowledge management platform that leverages AI to transform how you store, retrieve, and interact with your information. With powerful local LLM integration, document processing, and intelligent search capabilities, Cortex helps you build a second brain for your data.
 
