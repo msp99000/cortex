@@ -1,4 +1,4 @@
-# Cortex <img src="frontend/public/logo.svg" width="32" height="32" style="vertical-align: middle;">
+# <img src="frontend/public/logo.svg" width="36" height="36" style="vertical-align: middle;"> Cortex 
 
 ![Cortex](https://img.shields.io/badge/status-development-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
